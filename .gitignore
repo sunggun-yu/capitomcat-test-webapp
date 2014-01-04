@@ -1,0 +1,29 @@
+# Java #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# CVS Files #
+.cvsignore
+CVS
+
+# Eclipse Project Files #
+.settings
+target
+.classpath
+.project
+
+# Intellij Project Files #
+.idea
+*.iml
+
+# Mac Directory #
+.DS_Store
+
+# Maven #
+target/
+release.properties
+pom.xml.releaseBackup
